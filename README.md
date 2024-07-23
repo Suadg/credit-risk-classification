@@ -1,5 +1,5 @@
-# credit-risk-classification
-# Module 12 Report Template
+# credit-risk-classification challenge
+
 
 ## Overview of the Analysis
 
